@@ -6,5 +6,5 @@
 
 📚 Currently immersing myself in the world of Data Structures & Algorithms, React, and Node.
 
-💌 Send me message shivam85390@gmail.comif you have any quries.
+💌 Send me message shivam85390@gmail.com if you have any quries.
 
