@@ -1,4 +1,4 @@
-### Hi there👋,I'm Shivam Kumar!
+## Hi there👋,I'm Shivam Kumar!
 
 🎓 Proud graduate of Information Technology from Arya College of Engineering and I.T.<br/>
 💻 Mastered Python, SQL, HTML, CSS, and JavaScript with finesse.<br/>
