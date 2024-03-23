@@ -6,7 +6,5 @@
 
 📚 Currently immersing myself in the world of Data Structures & Algorithms, React, and Node.
 
-📝 Documenting my #learninginpublic journey in my portfolio to inspire others.
-
 💌 Don't hesitate to reach out to me at shivam85390@gmail.com for any queries or collaborations.
 
