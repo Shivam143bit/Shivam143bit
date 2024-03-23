@@ -5,4 +5,4 @@
 📚 Currently immersing myself in the world of Data Structures & Algorithms, React, and Node.<br/>
 📝 Documenting my #learninginpublic journey in my [portfolio](https://shivam143bit.github.io/Portfolio-Website/)!<br/>
 💌 Send me message shivam85390@gmail.com if you have any quries.
-
+[![Shivam's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shivam143bit&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
