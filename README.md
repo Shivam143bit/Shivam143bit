@@ -6,7 +6,7 @@
 📝 Documenting journey in my [portfolio](https://shivam143bit.github.io/Portfolio-Website/)!<br/>
 💌 Send me message shivam85390@gmail.com if you have any quries.<br/>
 
-[![Profile Views](https://visitcount.itsvg.in/api?id=Shivam143bit&icon=0&color=6)](https://visitcount.itsvg.in)
+[![Profile Views](https://visitcount.itsvg.in/api?id=Shivam143bit&icon=0&color=6)](https://visitcount.itsvg.in)<br/>
 [![Shivam's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shivam143bit&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🌐 Socials:
@@ -26,7 +26,6 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
 
 
 
