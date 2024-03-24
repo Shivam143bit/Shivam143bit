@@ -6,7 +6,7 @@
 📝 Documenting journey in my [portfolio](https://shivam143bit.github.io/Portfolio-Website/)!<br/>
 💌 Send me message shivam85390@gmail.com if you have any quries.<br/>
 
-<img src="https://komarev.com/ghpvc/?username=shivam143bit&label=Profile%20views&color=0e75b6&style=flat" alt="shivam143bit"/> <br/>
+<img src="https://komarev.com/ghpvc/?username=shivam143bit&label=Profile%20views&color=0e75b6&style=flat" alt="shivam143bit"/>
 [![Shivam's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shivam143bit&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🌐 Socials:
