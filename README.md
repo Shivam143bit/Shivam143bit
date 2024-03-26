@@ -10,8 +10,8 @@
 [![Shivam's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shivam143bit&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🌐 Socials:
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/knirala573" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/knirala573" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/shivamkumar112/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/shivamkumar112/" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/knirala573" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/knirala573" height="30" width="40" /></a>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shivam-kumar02101999/)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/shivamkumar.singh.52493) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/shivamkumar7500/?igsh=MTViNnJ0dWpsM2s2dw%3D%3D)  [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://twitter.com/ShivamK06477799?t=0X26Msd7adcylMVdYyi_LA&s=09) 
 
