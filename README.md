@@ -2,7 +2,7 @@
 
 🎓 Proud graduate in Information Technology from Arya College of Engineering and I.T.<br/>
 💻 Expertise in Python, JavaScript, HTML, CSS and SQL with finesse.<br/>
-📚 Currently immersing myself in the world of Data Structures & Algorithms, React.JS, and Django.<br/>
+📚 Currently immersing myself in the world of Data Structures & Algorithms, and Django.<br/>
 📝 Documenting journey in my [portfolio](https://shivam143bit.github.io/Portfolio-Website/)!<br/>
 💌 Send me message shivam85390@gmail.com if you have any quries.<br/>
 
