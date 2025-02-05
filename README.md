@@ -1,5 +1,5 @@
 ## Hi there👋,I'm Shivam Kumar!
-
+![MasterHead](https://miro.medium.com/v2/resize:fit:679/1*yw0TnheAGN-LPneDaTlaxw.gif)
 🎓 Proud graduate in Information Technology from Arya College of Engineering and I.T.<br/>
 💻 Expertise in Python, JavaScript, HTML, CSS and SQL with finesse.<br/>
 📚 Currently immersing myself in the world of Data Structures & Algorithms, and Django.<br/>
