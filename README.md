@@ -4,7 +4,7 @@
 🎓 Proud graduate in Information Technology from Arya College of Engineering and I.T.<br/>
 💻 Expertise in Python, JavaScript, HTML, CSS and SQL with finesse.<br/>
 📚 Currently immersing myself in the world of Data Structures & Algorithms, and Django.<br/>
-📝 Documenting journey in my [portfolio](https://shivam143bit.github.io/Portfolio-Website/)!<br/>
+📝 Documenting journey in my [portfolio](https://shivam143bit.github.io/Portfolio--Website/)!<br/>
 💌 Send me message shivam85390@gmail.com if you have any quries.<br/>
 
 <img src="https://komarev.com/ghpvc/?username=shivam143bit&label=Profile%20views&color=0e75b6&style=flat" alt="shivam143bit"/><br/>
